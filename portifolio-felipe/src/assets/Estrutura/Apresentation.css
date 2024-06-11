@@ -1,0 +1,14 @@
+.apresentation h1{
+    margin-left:100px ;
+    font-size: 45px;
+    margin-top: 100px;
+}
+.apresentation h2{
+    color: #BCBCBC;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.apresentation Button{
+    margin-left: 150px;
+    margin-top: 40px;
+}

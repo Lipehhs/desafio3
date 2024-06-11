@@ -1,0 +1,30 @@
+.navs{
+    display: flex;
+    justify-content: space-around;
+}
+.navs div{
+    display: flex;
+    padding: 10px;
+    
+}
+.navs div a{
+    margin: 10px;
+    text-decoration: none;
+    align-items: center;
+    color: white;
+    font-size: 10px;
+    transition-duration: 0.8s;
+}
+.icons ul{
+    list-style: none;
+    display: flex;
+}
+.icons ul li{
+    margin: 10px;
+}
+.navs div a:hover {
+   transform: scale(1.2);
+   transition-duration: 0.8s;
+   color: rgb(127, 247, 247);
+  }
+  

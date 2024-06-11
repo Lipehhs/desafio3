@@ -1,0 +1,18 @@
+.btn a button{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    font-style: italic;
+    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    transition-duration: 0.7s;
+   
+    
+}
+.btn a button:hover{
+    transform: scale(1.2);
+    animation-duration: 0.7s;
+    
+}
